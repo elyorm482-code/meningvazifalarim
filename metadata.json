@@ -1,0 +1,6 @@
+{
+  "name": "Vazifalar Boshqaruvi",
+  "description": "Jonli animatsiyalar, AI yordamchi va qulay rejalashtirish imkoniyatlariga ega vazifalar boshqaruvchisi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
